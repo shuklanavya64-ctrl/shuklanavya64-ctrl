@@ -1,9 +1,9 @@
 # README
 
 ## Student Details
-- **Name:** [Your Name]
-- **Branch:** Computer Science Engineering
-- **Year:** [Your Year]
+- **Name:** Navya Shukla
+- **Branch:** CSE [CDS]
+- **Year:** 1st year
 
 ## What I Hope to Learn
 I hope to learn strong technical skills in programming, problem-solving, and software development.  
